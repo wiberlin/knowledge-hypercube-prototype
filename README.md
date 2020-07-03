@@ -1,5 +1,7 @@
 # Knowledge Hypercube Prototype
 
-The "Knowledge Tool“ supports interdisciplinary debates by providing a workshop 
-methodology based on predefined instructions and prefabricated workshop materials with the aim to 
-structure and record multi-perspective exploration and analysis.
+The outlined semantic tool should make it possible to structure and document the conversation in the context of workshops and discussions between academics and provide impulses for these conversations  from an existing and growing knowledge base.
+
+For this purpose, the tool maps the results of workshops as graphs of entities and relationships in a database system. If an entity (e.g. "connected appliance") is added to a conversation, the system could directly suggest relationships and other entities that have already been used in other conversations about e.g. "connected appliances" - regardless of whether there is a person at the table who would have thought of this  entity or not. 
+
+Entities as well as relationships can be annotated with subject domains/perspectives, so that it would also be possible to import a basic understanding of a situation based on a specific perspective from the collected Weizenbaum knowledge base into the current conversation. The interdisciplinary working process is supported in this low-threshold way, since ongoing conversations are repeatedly creatively irritated by possibly underrepresented perspectives. This prevents debates from remaining too subject-specific. On the other hand, every system-supported conversation contributes directly to the knowledge of the Weizenbaum Institute serialised in the database.  
