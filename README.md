@@ -1,7 +1,18 @@
-# Knowledge Hypercube Prototype
+# Weizenbaum Knowledge Hypercube Prototype
 
-The outlined semantic tool should make it possible to structure and document the conversation in the context of workshops and discussions between academics and provide impulses for these conversations  from an existing and growing knowledge base.
+## What is the HyperCube?
 
-For this purpose, the tool maps the results of workshops as graphs of entities and relationships in a database system. If an entity (e.g. "connected appliance") is added to a conversation, the system could directly suggest relationships and other entities that have already been used in other conversations about e.g. "connected appliances" - regardless of whether there is a person at the table who would have thought of this  entity or not. 
+The HyperCube is a framework developed by the Weizenbaum Institute for the support, visualization and result validation of interdisciplinary workshops. The HyperCube supports a moderated discussion process, which integrates the perspectives of all participants by combining and securing their insights, questions and possible solutions (= HyperCube session). At the center of the HyperCube is the development of a topic-focused mind map by the session participants. Their ideas and impulses are recorded in the form of core concepts and put in relation to each other, based on a process of discussing, prioritizing and documenting.
 
-Entities as well as relationships can be annotated with subject domains/perspectives, so that it would also be possible to import a basic understanding of a situation based on a specific perspective from the collected Weizenbaum knowledge base into the current conversation. The interdisciplinary working process is supported in this low-threshold way, since ongoing conversations are repeatedly creatively irritated by possibly underrepresented perspectives. This prevents debates from remaining too subject-specific. On the other hand, every system-supported conversation contributes directly to the knowledge of the Weizenbaum Institute serialised in the database.  
+
+## Digitisation and Sustainability
+
+The HyperCube was created in the cross-sectional area of »Digitisation and Sustainability« of the Weizenbaum Institute. The project emerged from the in-depth discussion of the sustainable development goals (SDGs) in the context of information and communication technologies (ICT). Among other sources, these initial discussions heavily relied on the main report Towards our Common Digital Future by the German Advisory Council on Global Change.
+
+## Contact Information
+
+The Hypercube is under constant development and will be used in many upcoming workshops. If you have any questions about its use or simply want to talk to us, please contact
+
+Dr. Stefan Ullrich, https://riot.weizenbaum-institut.de/blog/team/stefan-ullrich/
+
+Bennet Etsiwah, https://www.weizenbaum-institut.de/en/portrait/p/bennet-etsiwah/
